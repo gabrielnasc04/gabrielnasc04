@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**gabrielnasc04/gabrielnasc04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou o Gabriel Nascimento 🖐️
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-nascimento-348953223/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnasc04&langs_count=8)
+
+
+### Tecnologias que eu uso no meu dia
+
+<div style="display:inline_block"><br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    </div>
+
+### Objetivo
+
+No momento meu objetivo é participar de um programa de estágio, no futuro pretendo ir para a área de ServiceNow.
